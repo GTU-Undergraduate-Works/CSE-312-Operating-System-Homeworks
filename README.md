@@ -1,2 +1,4 @@
 # CSE-312-Operating-System-Homeworks
-Gebze Technical University Computer Engineering Department Operating System Hommeworks
+
+CSE 312 Operating System Homeworks
+Computer Engineering Department/Gebze Technical University
